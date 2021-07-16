@@ -1,5 +1,6 @@
 import speech_recognition as sr
 import webbrowser
+from importcsv import *
 
 r=sr.Recognizer()
 
@@ -14,6 +15,8 @@ with sr.Microphone() as source:
         print("Sorry could not recognize your voice.")
 
     text_0=text[:text.find(' ')]
-    print(text_0)
+
     if text_0=='play':
-        print('anotehu') 
+        valid,url=find_url(text[text.find(' '):].strip())
+        if valid:
+            webbrowser.open(url.strip())
