@@ -1,7 +1,198 @@
 [
     {
-        "index": 0,
+        "name": "arduino",
+        "path": "V:\\Arduino"
+    },
+    {
+        "name": "blender",
+        "path": "V:\\Blender"
+    },
+    {
+        "name": "books",
+        "path": "V:\\Books"
+    },
+    {
+        "name": "chin 280",
+        "path": "V:\\CHIN 280"
+    },
+    {
+        "name": "dailyclock",
+        "path": "V:\\DailyClock"
+    },
+    {
+        "name": "datamining",
+        "path": "V:\\DataMining"
+    },
+    {
+        "name": "datamining vids",
+        "path": "V:\\DataMining Vids"
+    },
+    {
+        "name": "drawing",
+        "path": "V:\\drawing"
+    },
+    {
+        "name": "ds4",
+        "path": "V:\\DS4"
+    },
+    {
+        "name": "games",
+        "path": "V:\\Games"
+    },
+    {
+        "name": "gergwork",
+        "path": "V:\\GergWork"
+    },
+    {
         "name": "hcv",
-        "path": "V:\\hcv\\"
+        "path": "V:\\hcv"
+    },
+    {
+        "name": "illustrator",
+        "path": "V:\\illustrator"
+    },
+    {
+        "name": "io crap",
+        "path": "V:\\io crap"
+    },
+    {
+        "name": "itunes",
+        "path": "V:\\itunes"
+    },
+    {
+        "name": "javascript",
+        "path": "V:\\Javascript"
+    },
+    {
+        "name": "language",
+        "path": "V:\\language"
+    },
+    {
+        "name": "laziness",
+        "path": "V:\\Laziness"
+    },
+    {
+        "name": "lightworks",
+        "path": "V:\\Lightworks"
+    },
+    {
+        "name": "luamacros",
+        "path": "V:\\luamacros"
+    },
+    {
+        "name": "minecarft",
+        "path": "V:\\minecarft"
+    },
+    {
+        "name": "mint machine",
+        "path": "V:\\Mint Machine"
+    },
+    {
+        "name": "neovim",
+        "path": "V:\\Neovim"
+    },
+    {
+        "name": "notepad++",
+        "path": "V:\\Notepad++"
+    },
+    {
+        "name": "obs-studio",
+        "path": "V:\\obs-studio"
+    },
+    {
+        "name": "photoshop",
+        "path": "V:\\photoshop"
+    },
+    {
+        "name": "phts",
+        "path": "V:\\phts"
+    },
+    {
+        "name": "power",
+        "path": "V:\\POWER"
+    },
+    {
+        "name": "processexplorer",
+        "path": "V:\\ProcessExplorer"
+    },
+    {
+        "name": "pscp",
+        "path": "V:\\pscp"
+    },
+    {
+        "name": "python voice",
+        "path": "V:\\python voice"
+    },
+    {
+        "name": "pythonclass",
+        "path": "V:\\PythonClass"
+    },
+    {
+        "name": "redditsortingbot",
+        "path": "V:\\RedditSortingBot"
+    },
+    {
+        "name": "riot games",
+        "path": "V:\\Riot Games"
+    },
+    {
+        "name": "rockstar",
+        "path": "V:\\Rockstar"
+    },
+    {
+        "name": "scripting-in-python",
+        "path": "V:\\Scripting-in-Python"
+    },
+    {
+        "name": "shared",
+        "path": "V:\\Shared"
+    },
+    {
+        "name": "steamlibrary",
+        "path": "V:\\SteamLibrary"
+    },
+    {
+        "name": "stretch",
+        "path": "V:\\Stretch"
+    },
+    {
+        "name": "sumatra",
+        "path": "V:\\Sumatra"
+    },
+    {
+        "name": "system volume information",
+        "path": "V:\\System Volume Information"
+    },
+    {
+        "name": "threejstutorial",
+        "path": "V:\\ThreejsTutorial"
+    },
+    {
+        "name": "ubuntu",
+        "path": "V:\\Ubuntu"
+    },
+    {
+        "name": "ubuntu2",
+        "path": "V:\\Ubuntu2"
+    },
+    {
+        "name": "uubuntu",
+        "path": "V:\\UUbuntu"
+    },
+    {
+        "name": "webdesign",
+        "path": "V:\\WebDesign"
+    },
+    {
+        "name": "webgl start",
+        "path": "V:\\Webgl start"
+    },
+    {
+        "name": "working_bikes",
+        "path": "V:\\Working_Bikes"
+    },
+    {
+        "name": "zotero",
+        "path": "V:\\Zotero"
     }
 ]
